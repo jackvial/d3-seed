@@ -1,23 +1,13 @@
-Simple Express Static File Server
+d3 Seed Project
 =================================
 
 Description
 -----------
 
-A very simple static file server. For development use only.
+Seed project to get started quickly with d3.js
 
-Install dependencies (first time only):
+### Setup
 
-    $ npm install
-
-How to start:
-
-    $ node server
-
-Open [http://localhost:4567](http://localhost:4567)
-
-If you need a different port:
-
-    $ PORT=9999 node server
-
-Open [http://localhost:9999](http://localhost:9999)
+- Clone the repo
+- Run ```npm install``` and ```bower install``` from the project root
+- Run ```node server.js```
